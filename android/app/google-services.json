@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79419000452",
+    "project_id": "reejc-48ae1",
+    "storage_bucket": "reejc-48ae1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79419000452:android:26a3e70dde87cc7a1764d1",
+        "android_client_info": {
+          "package_name": "com.mybadllc.reejc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79419000452-akv6qrvgih3plo2clnocug09tkubmsqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgOV--kfDTeUx9UHvE0ODO7obnQ31nI5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79419000452-akv6qrvgih3plo2clnocug09tkubmsqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
